@@ -42,6 +42,7 @@
         <ol type="a">
         <li>keep the original license as is, no exceptions, or</li>
         <li>significantly change the intention or distribution of the license (such as allowing paywalls, adwalls or not allowing Remixes), and be forced to remove "Artzencraft" or "AZ" from the license - it's officially your own.</li></ol>
+    * The above is also what would happen if you decided to put this content onto SourceForge or an alternative where downloads have a timer, adwall or paywall as described above: simply change your license terms and allow SourceForge or another alternative to operate and boom you have your own license and there's nothing legally I can do to change that provided that the above B section is and always will remain true.
 
 * Make a modified or remixed project use or imply a connection to Artzencraft IP.
      * This means you cannot do these situations, or do actions similar to them:
